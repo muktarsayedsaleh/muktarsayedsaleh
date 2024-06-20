@@ -34,5 +34,9 @@ You can find me on:
 يسعدني أن يقع اختيارك عليّ لتوظّفني أو لأساعدك في بناء شركتك الناشئة أو قيادة فريقك التقنيّ.
 
 
-![Muktar's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktarsayedsaleh&show_icons=true&theme=radical)
+
+
+
+
+
 
