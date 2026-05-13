@@ -23,7 +23,7 @@ You can find me on:
 
 ---
 
-### GitHub Stats
+### GitHub Stats (Personal Repos Only)
 
 <p align="center">
   <img src="./metrics/github-stats.svg" alt="GitHub Stats" />
