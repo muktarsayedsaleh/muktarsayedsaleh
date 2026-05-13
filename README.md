@@ -26,15 +26,31 @@ You can find me on:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muktarsayedsaleh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="./metrics/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muktarsayedsaleh&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="./metrics/languages.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktarsayedsaleh&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="./metrics/contributions.svg" alt="Contributions" />
+</p>
+
+<p align="center">
+  <img src="./metrics/achievements.svg" alt="Achievements" />
+</p>
+
+<p align="center">
+  <img src="./metrics/habits.svg" alt="Coding Habits" />
+</p>
+
+<p align="center">
+  <img src="./metrics/notable.svg" alt="Notable Contributions" />
+</p>
+
+<p align="center">
+  <img src="./metrics/activity.svg" alt="Recent Activity" />
 </p>
 
 ---
