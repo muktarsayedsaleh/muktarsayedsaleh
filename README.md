@@ -30,27 +30,7 @@ You can find me on:
 </p>
 
 <p align="center">
-  <img src="./metrics/languages.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="./metrics/contributions.svg" alt="Contributions" />
-</p>
-
-<p align="center">
-  <img src="./metrics/achievements.svg" alt="Achievements" />
-</p>
-
-<p align="center">
-  <img src="./metrics/habits.svg" alt="Coding Habits" />
-</p>
-
-<p align="center">
-  <img src="./metrics/notable.svg" alt="Notable Contributions" />
-</p>
-
-<p align="center">
-  <img src="./metrics/activity.svg" alt="Recent Activity" />
 </p>
 
 ---
