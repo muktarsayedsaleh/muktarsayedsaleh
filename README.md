@@ -18,18 +18,6 @@ I also write Arabic poetry. My collections have won the Sharjah Award for Arab C
 
 ---
 
-### GitHub Stats (Personal Repos Only)
-
-<p align="center">
-  <img src="./metrics/github-stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./metrics/contributions.svg" alt="Contributions" />
-</p>
-
----
-
 <div dir="rtl">
 
 ### مختار سيّد صالح
